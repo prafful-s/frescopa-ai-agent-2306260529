@@ -1,22 +1,14 @@
 {
   "mappings": [
-    "/content/carvelo/language-masters/en:/",
-    "/content/carvelo/language-masters/en/:/en/",
-    "/content/carvelo/language-masters/fr/:/fr/",
-    "/content/carvelo/language-masters/fr:/fr",
-    "/content/carvelo/language-masters/es/:/es/",
-    "/content/carvelo/language-masters/es:/es",
-    "/content/carvelo/language-masters/ja/:/ja/",
-    "/content/carvelo/language-masters/ja:/ja",
-    "/content/carvelo/language-masters/de/:/de/",
-    "/content/carvelo/language-masters/de:/de",
-    "/content/carvelo/configuration:/.helix/config.json",
-    "/content/carvelo/metadata:/metadata.json",
-    "/content/carvelo/redirects:/redirects.json",
-    "/content/carvelo/placeholders:/placeholders.json"
+    "/content/kumarpradeep/demo_frescopa/language-masters/en:/",
+    "/content/kumarpradeep/demo_frescopa/language-masters/en/:/en/",
+    "/content/kumarpradeep/demo_frescopa/configuration:/.helix/config.json",
+    "/content/kumarpradeep/demo_frescopa/metadata:/metadata.json",
+    "/content/kumarpradeep/demo_frescopa/redirects:/redirects.json",
+    "/content/kumarpradeep/demo_frescopa/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/carvelo/",
-    "/content/dam/carvelo/"
+    "/content/kumarpradeep/demo_frescopa/",
+    "/content/dam/kumarpradeep/demo_frescopa/"
   ]
 }
